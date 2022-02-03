@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kaza ve Oruç Takibim</string>
+    <string name="sabah">Sabah</string>
+    <string name="ogle">Öğle</string>
+    <string name="ikindi">İkindi</string>
+    <string name="aksam">Akşam</string>
+    <string name="yatsi">Yatsı</string>
+</resources>
